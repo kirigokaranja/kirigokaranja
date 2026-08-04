@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F2963&height=120&section=header" alt="header"/> 
-<h1 align="center"><img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Sharon </h1> 
+<h1 align="center"><img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Sharon Karanja </h1> 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=454372&width=435&lines=FullStack+Software+Developer;Future+Data+Engineer;Data+Analyst" alt="Typing SVG"/>
@@ -25,29 +25,42 @@
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<table>
+<tr>
+<td valign="top" width="100%">
+  
+### Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vue,react,ts,html,css,bootstrap,tailwind,npm,figma,vercel&perline=5" />
+</div>
+</td>
+<td valign="top" width="100%">
+  
+### Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,django,graphql,js,go&perline=5" />
+</div>
+</td>
+</tr>
 
-### **Backend**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-
-### **Data**
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<tr><td valign="top" width="100%">
+  
+### Data
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres" /><br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</div>
+</td>
+<td valign="top" width="100%">
 
-### **Cloud & DevOps**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+### Cloud
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions&perline=4" />
+</div>
+</td>
+</tr>
+</table>
 
 <!--  ### 📊 GitHub Stats
  
