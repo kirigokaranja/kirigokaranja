@@ -1,10 +1,17 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Sharon </h1> 
 <h3 align="center">Full Stack Software Developer, now skilling up in Data Engineering</h3> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharon_Karanja-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-kirigo-karanja/)
+[![Mail](https://img.shields.io/badge/Gmail-sharonkirigo%40gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:sharonkirigo@gmail.com?subject=Hey!)
+[![Website](https://img.shields.io/badge/Website-kirigokaranja.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://kirigokaranja.com)
+<br>
+
 <p align="center"> 
   <a href="https://www.linkedin.com/in/sharon-kirigo-karanja/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
 </p>
+
 
 ## 🔭 What I'm Building
 
