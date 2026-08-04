@@ -38,9 +38,9 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /><br/>
 
 
-## 🌱 Currently Skilling Up In
+<!-- ## 🌱 Currently Skilling Up In
 **Data Engineering** — deepening my SQL, working through data pipeline / ETL fundamentals, and exploring cloud data warehousing.
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev) -->
 
 <!--  ### 📊 GitHub Stats
  
