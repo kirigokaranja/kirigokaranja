@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sharon 👋</h1> 
+<h1 align="center"><img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Sharon </h1> 
 <h3 align="center">Full Stack Software Developer, now skilling up in Data Engineering</h3> 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/sharon-kirigo-karanja/"> 
