@@ -1,5 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F2963&height=120&section=header" alt="header"/> 
 <h1 align="center"><img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Sharon </h1> 
-<h3 align="center">Full Stack Software Developer, now skilling up in Data Engineering</h3> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=454372&width=435&lines=FullStack+Software+Developer;Future+Data+Engineer;Data+Analyst" alt="Typing SVG"/>
+  </a>
+</p>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharon_Karanja-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-kirigo-karanja/)
 [![Mail](https://img.shields.io/badge/Gmail-sharonkirigo%40gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:sharonkirigo@gmail.com?subject=Hey!)
