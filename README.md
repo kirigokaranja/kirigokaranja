@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Sharon Karanja </h1> 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFBBEE&width=435&lines=FullStack+Software+Developer;Future+Data+Engineer;Data+Analyst" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFBBEE&width=435&lines=FullStack+Software+Developer;Data+Engineer;Data+Analyst" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -27,23 +27,23 @@
 
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
   
 ### Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vue,react,ts,html,css,bootstrap,tailwind,npm,figma,vercel&perline=5" />
+<img src="https://skillicons.dev/icons?i=vue,react,ts,html,css,bootstrap,tailwind,npm,figma,vercel,alpinejs&perline=5" />
 </div>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
   
 ### Backend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,django,graphql,js,go&perline=5" />
+<img src="https://skillicons.dev/icons?i=py,django,graphql,js,go,apollo,fastapi&perline=5" />
 </div>
 </td>
 </tr>
-
-<tr><td valign="top" width="100%">
+<tr>
+<td valign="top" width="50%">
   
 ### Data
 <div align="center">
@@ -52,8 +52,8 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </div>
 </td>
-<td valign="top" width="100%">
-
+<td valign="top" width="50%">
+  
 ### Cloud
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions&perline=4" />
@@ -61,6 +61,8 @@
 </td>
 </tr>
 </table>
+
+
 
 <!--  ### 📊 GitHub Stats
  
