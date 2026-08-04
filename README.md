@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Sharon Karanja </h1> 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=454372&width=435&lines=FullStack+Software+Developer;Future+Data+Engineer;Data+Analyst" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFBBEE&width=435&lines=FullStack+Software+Developer;Future+Data+Engineer;Data+Analyst" alt="Typing SVG"/>
   </a>
 </p>
 
